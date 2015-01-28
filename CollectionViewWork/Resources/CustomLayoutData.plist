@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>count</key>
+		<integer>1</integer>
+		<key>color</key>
+		<string>red</string>
+	</dict>
+	<dict>
+		<key>count</key>
+		<integer>2</integer>
+		<key>color</key>
+		<string>yellow</string>
+	</dict>
+	<dict>
+		<key>count</key>
+		<integer>3</integer>
+		<key>color</key>
+		<string>blue</string>
+	</dict>
+	<dict>
+		<key>count</key>
+		<integer>4</integer>
+		<key>color</key>
+		<string>green</string>
+	</dict>
+</array>
+</plist>
